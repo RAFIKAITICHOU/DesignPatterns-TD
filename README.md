@@ -16,7 +16,7 @@ Chaque exercice illustre l'utilisation d'un ou plusieurs patterns de conception 
 
 | Exercice | Pattern(s) utilisé(s) | Description |
 |----------|----------------------|-------------|
-| [Ex1](#https://github.com/RAFIKAITICHOU/DesignPatterns-TD/tree/main/src/main/java/com/demo/Exercice1) | **Decorator** | Gestion de desserts (crêpe/gaufre) avec ajout d'ingrédients |
+| [Ex1](#DesignPatterns-TD/tree/main/src/main/java/com/demo/Exercice1) | **Decorator** | Gestion de desserts (crêpe/gaufre) avec ajout d'ingrédients |
 | [Ex2](#exercice-2--plans-dune-pièce) | **Decorator** | Plans de pièce avec différents modes d'affichage |
 | [Ex3](#exercice-3--distributeur-de-pizzas) | **Abstract Factory + Singleton** | Fabrication de pizzas (Pizza Hut / Domino) |
 | [Ex4](#exercice-4--gestion-de-plusieurs-vues) | **Observer** | Modèle-Vue avec notification automatique |

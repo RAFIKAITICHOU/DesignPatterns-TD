@@ -1,4 +1,6 @@
 package com.demo.Exercice1;
 
-public class Dessert {
+public interface Dessert {
+    String getNom();
+    double getPrix();
 }

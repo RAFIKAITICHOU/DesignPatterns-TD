@@ -1,4 +1,7 @@
 package com.demo.Exercice3;
 
-public class Pizza {
+public interface Pizza {
+    String getNom();
+    double getPrix();
+    String getIngredients();
 }

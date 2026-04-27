@@ -1,4 +1,6 @@
 package com.demo.Exercice3;
 
-public class PizzaFactory {
+public interface PizzaFactory {
+    Pizza creerMargherita();
+    Pizza creerFruttiDiMare();
 }

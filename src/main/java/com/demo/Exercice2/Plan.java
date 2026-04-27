@@ -1,4 +1,5 @@
 package com.demo.Exercice2;
 
-public class Plan {
+public interface Plan {
+    String afficher();
 }

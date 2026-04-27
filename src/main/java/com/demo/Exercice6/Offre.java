@@ -1,4 +1,6 @@
 package com.demo.Exercice6;
 
-public class Offre {
+public interface Offre {
+    double getCout();
+    String getDescription();
 }

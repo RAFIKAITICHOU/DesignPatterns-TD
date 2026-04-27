@@ -1,4 +1,5 @@
 package com.demo.Exercice5;
 
-public class Observateur {
+public interface Observateur {
+    void notifier(String message);
 }
